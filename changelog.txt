@@ -2,6 +2,7 @@
 Version: 1.0.2
 Date: ????
   Changes:
+    - Reverse upgrade cursor box color is now yellow
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2020-11-23
