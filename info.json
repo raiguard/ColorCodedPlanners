@@ -4,8 +4,10 @@
   "title": "Color-Coded Planners",
   "description": "Improves the vanilla selection tool colors to better match their icons and functionality.",
   "author": "raiguard",
-  "homepage": "https://git.sr.ht/~raiguard/ColorCodedPlanners",
-  "contact": "https://lists.sr.ht/~raiguard/factorio-mods-discuss",
+  "homepage": "https://github.com/raiguard/ColorCodedPlanners",
+  "contact": "https://github.com/raiguard/ColorCodedPlanners",
   "factorio_version": "1.1",
-  "dependencies": [ "base >= 1.1.76" ]
+  "dependencies": [
+    "base >= 1.1.76"
+  ]
 }
